@@ -5,7 +5,7 @@ Welcome to my submission for Task 1 of the Data Science Internship at Prodigy In
 <hr/>
 
 # Dataset
-The dataset used for this task is "C:\Users\Harshal Lichade\Downloads\worldpopulationdata (2).csv". This dataset contains records of population from the year 2001 to 2022.
+The dataset used for this task is <a href="C:\Users\Harshal Lichade\Downloads\worldpopulationdata (2).csv"> World_Population_Data </a> . This dataset contains records of population from the year 2001 to 2022.
 <hr/>
 
 # Tools and Libraries used
@@ -36,5 +36,5 @@ For any inquiries or feedback regarding this project, please contact:
 
 <ul>
   <li> <b>Linkdin Profile</b>: <a href="https://www.linkedin.com/in/harshal-lichade-507885334/"> Harshal Lichade </a> </li>
-  <li> <b>Email</b>: <a href="harshallichade2006@gmail.com> harshallichade2006@gmail </a> </li>
+  <li> <b>Email</b>: <a href=""> harshallichade2006@gmail </a> </li>
 </ul>
