@@ -36,5 +36,5 @@ For any inquiries or feedback regarding this project, please contact:
 
 <ul>
   <li> <b>Linkdin Profile</b>: <a href="https://www.linkedin.com/in/harshal-lichade-507885334/"> Harshal Lichade </a> </li>
-  <li> <b>Email</b>: harshallichade2006@gmail </li>
+  <li> <b>Email</b>: harshallichade2006@gmail.com </li>
 </ul>
